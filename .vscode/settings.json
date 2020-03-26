@@ -7,6 +7,9 @@
         "fcntl.h": "c",
         "unistd.h": "c",
         "types.h": "c",
-        "signal.h": "c"
+        "signal.h": "c",
+        "cctype": "c",
+        "streambuf": "c",
+        "*.tcc": "c"
     }
 }
