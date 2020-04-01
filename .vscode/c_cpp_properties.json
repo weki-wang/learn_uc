@@ -4,9 +4,7 @@
             "name": "Linux",
             "includePath": [
                 "/usr/include",
-                "/usr/include/linux",
-                "/usr/include/x86_64-linux-gnu/sys",
-                "/usr/include/x86_64-linux-gnu"
+                "/usr/include/linux"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
