@@ -14,6 +14,7 @@
         "csignal": "cpp",
         "iostream": "cpp",
         "ostream": "cpp",
-        "ipc.h": "c"
+        "ipc.h": "c",
+        "limits": "c"
     }
 }

@@ -1,3 +1,4 @@
+// 03 和 04 用于测试消息队列的使用
 #include <stdio.h>
 #include <sys/ipc.h>
 #include <sys/msg.h>
