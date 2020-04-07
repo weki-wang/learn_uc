@@ -1,3 +1,4 @@
+/* 该程序将字符串ip转化为内部ip，注意内部ip是以网络字节顺序(大端)储存的 */
 #include <stdio.h>
 #include <sys/socket.h>
 #include <arpa/inet.h>
