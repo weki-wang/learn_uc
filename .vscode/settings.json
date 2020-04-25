@@ -15,6 +15,10 @@
         "iostream": "cpp",
         "ostream": "cpp",
         "ipc.h": "c",
-        "limits": "c"
+        "limits": "c",
+        "tcp.h": "c",
+        "ip.h": "c",
+        "netdb.h": "c",
+        "string": "cpp"
     }
 }
